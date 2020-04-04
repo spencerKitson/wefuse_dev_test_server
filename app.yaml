@@ -1,0 +1,5 @@
+runtime: nodejs10
+
+# Environment Variables
+env_variables:
+  # JWT_SECRET_KEY: "SLod_e-E_poiu34dsfASFdgarrtEAt354wq__++=-45Rgaw5^uwAR"
